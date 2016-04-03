@@ -31,16 +31,16 @@ Skills
 Jobs, Large Projects
 --------------------
 
-** Harlot Media // Co-Owner, Lead Developer // Remote, January 2016 to Present **
+**Harlot Media** // **Co-Owner, Lead Developer** // **Remote, January 2016 to Present**
 
-    <http://harlot.media>
+<http://harlot.media>
 
-    * Sparked a worker takeover and a restructuring of power when the CEO left the company
+ * Sparked a worker takeover and a restructuring of power when the CEO left the company
 
 
-    * A work in progress a social network with Python, Flask, Neo4j
-    * Ran a $5000 crowdfunding campaign to fund prototype development
-    * Worked with dozen developers from diaspora*, rstat.us, IndieWebCamp, MediaGoblin, etc
+ * A work in progress a social network with Python, Flask, Neo4j
+ * Ran a $5000 crowdfunding campaign to fund prototype development
+ * Worked with dozen developers from diaspora*, rstat.us, IndieWebCamp, MediaGoblin, etc
 
 *   **CollectQT** // Founder, Project Manager, Web Developer // Remote, August 2014 to Present
 
