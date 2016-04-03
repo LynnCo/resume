@@ -31,7 +31,7 @@ Skills
 Jobs, Large Projects
 --------------------
 
-*   **Harlot Media** // Co-Owner, Lead Developer // Remote, January 2016 to Present
+** Harlot Media // Co-Owner, Lead Developer // Remote, January 2016 to Present **
 
     <http://harlot.media>
 
