@@ -55,14 +55,6 @@ Jobs, Large Projects
  * Ran a $5000 crowdfunding campaign to fund prototype development
  * Worked with dozen developers from diaspora*, rstat.us, IndieWebCamp, MediaGoblin, etc
 
-Other Technical Work
---------------------
-
-* A server manager for DjangoCMS <https://github.com/LynnCo/djangocms_server>
-* A developer toolkit for Tumblr themes <https://github.com/LynnCo/TumblrDevKit>
-* A Twitter tool for managing the people you follow <https://gist.github.com/LynnCo/6b13e2528508349e05d6>
-* Work on the Yocto Project's Autobuilder <http://git.yoctoproject.org/cgit/cgit.cgi/yocto-autobuilder/log/?qt=author&q=lynn>
-
 Speaking and Writing
 --------------------
 
@@ -89,3 +81,11 @@ Speaking and Writing
     <http://www.alterconf.com/speakers/lynn-cyrin>
 
     * My experience spending the majority of my time within online communities
+
+Other Technical Work
+--------------------
+
+* A server manager for DjangoCMS <https://github.com/LynnCo/djangocms_server>
+* A developer toolkit for Tumblr themes <https://github.com/LynnCo/TumblrDevKit>
+* A Twitter tool for managing the people you follow <https://gist.github.com/LynnCo/6b13e2528508349e05d6>
+* Work on the Yocto Project's Autobuilder <http://git.yoctoproject.org/cgit/cgit.cgi/yocto-autobuilder/log/?qt=author&q=lynn>
