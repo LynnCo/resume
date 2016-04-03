@@ -25,38 +25,36 @@ Skills
     * Sass, CoffeeScript, jQuery, Bootstrap, AngularJS
     * Linux (Ubuntu), Windows, Mac
     * Git, Digital Ocean, Heroku
-    * Apache, Nginx
+    * Bash, Apache, Nginx
 
 
 Jobs, Large Projects
 --------------------
 
-**Harlot Media** // **Co-Owner, Lead Developer** // **Remote, January 2016 to Present**
+**Harlot Media** // **Co-Owner, Lead Developer** // Remote, January 2016 to Present
 
 <http://harlot.media>
 
+ * Designed and impemented the presentation and styling for this online magazine
+ * Setup and maintainence of the Craft CMS installation, including some bash and PHP scripting
  * Sparked a worker takeover and a restructuring of power when the CEO left the company
+ * Make managerial decisions about the future of the 30 person organization with the other 3 co-owners
 
+**CollectQT** // **Founder, Project Manager, Web Developer** // Remote, August 2014 to Present
+
+<http://collectqt.me>
+
+ * A distributed activist worker owner collective, with a focus on representation and personal growth
+ * Generally involves managing 5 - 10 remote web developers / writers / performers
+ * The parent organization for many projects, including [ATUnit](http://gitlab.com/atunit/atunit), [TheBlockBot](http://theblockbot.herokuapp.com/), [QAPC](http://qapcollective.net)
+
+**Quirell** // **Founder, Project Manager, Lead Developer** // Remote, November 2014 to Present
+
+<http://quirell.net>
 
  * A work in progress a social network with Python, Flask, Neo4j
  * Ran a $5000 crowdfunding campaign to fund prototype development
  * Worked with dozen developers from diaspora*, rstat.us, IndieWebCamp, MediaGoblin, etc
-
-*   **CollectQT** // Founder, Project Manager, Web Developer // Remote, August 2014 to Present
-
-    <http://collectqt.me>
-
-    * A distributed activist worker owner collective, with a focus on representation and personal growth
-    * Generally involves managing 5 - 10 remote web developers / writers / performers
-    * The parent organization for many projects, including [ATUnit](http://gitlab.com/atunit/atunit), [TheBlockBot](http://theblockbot.herokuapp.com/), [QAPC](http://qapcollective.net)
-
-*   **Quirell** // Founder, Project Manager, Lead Developer // Remote, November 2014 to Present
-
-    <http://quirell.net>
-
-    * A work in progress a social network with Python, Flask, Neo4j
-    * Ran a $5000 crowdfunding campaign to fund prototype development
-    * Worked with dozen developers from diaspora*, rstat.us, IndieWebCamp, MediaGoblin, etc
 
 Other Technical Work
 --------------------
