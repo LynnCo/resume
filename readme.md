@@ -35,8 +35,8 @@ Jobs, Large Projects
 
 **Co-Owner, Lead Developer** // Remote, January 2016 to Present
 
- * Designed and impemented the presentation and styling for this online magazine
- * Setup and maintainence of the Craft CMS installation, including some bash and PHP scripting
+ * Designed and implemented the presentation and styling for this online magazine
+ * Setup and maintenance of the Craft CMS installation, including some bash and PHP scripting
  * Sparked a worker takeover and a restructuring of power when the CEO left the company
  * Make managerial decisions about the future of the 30 person organization with the other 3 co-owners
 
@@ -46,7 +46,7 @@ Jobs, Large Projects
 
 **Founder, Project Manager, Web Developer** // Remote, August 2014 to Present
 
- * A decentralized activist worker owner collective, with a focus on representation and personal growth
+ * A decentralized worker-owner collective, with a focus on representation and personal growth
  * Generally involves managing 5 - 10 remote web developers / writers / performers
  * The parent organization for many projects, including [ATUnit](http://gitlab.com/atunit/atunit), [TheBlockBot](http://theblockbot.herokuapp.com/), [QAPC](http://qapcollective.net)
 
@@ -56,7 +56,7 @@ Jobs, Large Projects
 
 **Founder, Project Manager, Lead Developer** // Remote, November 2014 to Present
 
- * A work in progress a social network with Python, Flask, Neo4j
+ * A work in progress a social network made in Python, Flask, Neo4j
  * Ran a $5000 crowdfunding campaign to fund prototype development
  * Worked with dozen developers from diaspora*, rstat.us, IndieWebCamp, MediaGoblin, etc
 
