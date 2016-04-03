@@ -19,12 +19,13 @@ Skills
 *   **Databases**
     * Neo4j, MongoDB, Redis
     * Postgres, MySQL
-*   Other Tools
+*   Othe
     * Rails, Flask, Django
     * Sass, CoffeeScript, jQuery, Bootstrap, AngularJS
     * Linux (Ubuntu), Windows, Mac
     * Git, Digital Ocean, Heroku
     * Bash, Apache, Nginx
+    * Production Line Design, Glass Cannon Mages
 
 
 Jobs, Large Projects
