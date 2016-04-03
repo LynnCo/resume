@@ -40,6 +40,8 @@ Jobs, Large Projects
  * Sparked a worker takeover and a restructuring of power when the CEO left the company
  * Make managerial decisions about the future of the 30 person organization with the other 3 co-owners
 
+-
+
 **CollectQT** // **Founder, Project Manager, Web Developer** // Remote, August 2014 to Present
 
 <http://collectqt.me>
