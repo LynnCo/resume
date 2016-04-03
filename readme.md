@@ -31,7 +31,7 @@ Skills
 Jobs, Large Projects
 --------------------
 
-**Harlot Media** // <http://harlot.media>
+**Harlot Media** // [harlot.media](http://harlot.media)
 
 **Co-Owner, Lead Developer** // Remote, January 2016 to Present
 
@@ -42,21 +42,25 @@ Jobs, Large Projects
 
 -
 
-**CollectQT** // **Founder, Project Manager, Web Developer** // Remote, August 2014 to Present
+**CollectQT** // [collectqt.me](http://collectqt.me)
 
-<http://collectqt.me>
+**Founder, Project Manager, Web Developer** // Remote, August 2014 to Present
 
  * A distributed activist worker owner collective, with a focus on representation and personal growth
  * Generally involves managing 5 - 10 remote web developers / writers / performers
  * The parent organization for many projects, including [ATUnit](http://gitlab.com/atunit/atunit), [TheBlockBot](http://theblockbot.herokuapp.com/), [QAPC](http://qapcollective.net)
 
-**Quirell** // **Founder, Project Manager, Lead Developer** // Remote, November 2014 to Present
+-
 
-<http://quirell.net>
+**Quirell** // [quirell.net](http://quirell.net)
+
+**Founder, Project Manager, Lead Developer** // Remote, November 2014 to Present
 
  * A work in progress a social network with Python, Flask, Neo4j
  * Ran a $5000 crowdfunding campaign to fund prototype development
  * Worked with dozen developers from diaspora*, rstat.us, IndieWebCamp, MediaGoblin, etc
+
+-
 
 Speaking and Writing
 --------------------
