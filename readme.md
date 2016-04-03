@@ -31,9 +31,9 @@ Skills
 Jobs, Large Projects
 --------------------
 
-**Harlot Media** // **Co-Owner, Lead Developer** // Remote, January 2016 to Present
+**Harlot Media** // <http://harlot.media>
 
-<http://harlot.media>
+**Co-Owner, Lead Developer** // Remote, January 2016 to Present
 
  * Designed and impemented the presentation and styling for this online magazine
  * Setup and maintainence of the Craft CMS installation, including some bash and PHP scripting
