@@ -16,7 +16,7 @@ Skills
     * HTML, CSS, Javascript
 *   **Frameworks / CMS**
     * Rails, Flask, Django
-    * Craft CMS
+    * Craft CMS, Django CMS
 *   **Databases**
     * Neo4j, MongoDB, Redis
     * Postgres, MySQL
@@ -46,7 +46,7 @@ Recent Work
 
     * A distributed activist worker owner collective, with a focus on representation and personal growth
     * Generally involves managing 5 - 10 remote web developers / writers / performers
-    * The parent organization for many projects, including [ATUnit](http://gitlab.com/atunit/atunit), [TheBlockBot](http://theblockbot.herokuapp.com/), [QAPC](http://gitlab.com/atunit/atunit)
+    * The parent organization for many projects, including [ATUnit](http://gitlab.com/atunit/atunit), [TheBlockBot](http://theblockbot.herokuapp.com/), [QAPC](http://qapcollective.net)
 
 *   **Quirell** // Founder, Project Manager, Lead Developer // Remote, November 2014 to Present
 
@@ -56,10 +56,12 @@ Recent Work
     * Ran a $5000 crowdfunding campaign to fund prototype development
     * Worked with dozen developers from diaspora*, rstat.us, IndieWebCamp, MediaGoblin, etc
 
-Technical Projects
-------------------
+Other Technical Work
+--------------------
 
-
+* A server manager for DjangoCMS <https://github.com/LynnCo/djangocms_server>
+* A developer toolkit for Tumblr themes <https://github.com/LynnCo/TumblrDevKit>
+* A Twitter tool for managing the people you follow <https://gist.github.com/LynnCo/6b13e2528508349e05d6>
 
 Speaking and Writing
 --------------------
