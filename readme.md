@@ -86,7 +86,7 @@ Speaking and Writing
 Other Technical Work
 --------------------
 
-* A server manager for DjangoCMS <https://github.com/LynnCo/djangocms_server>
-* A developer toolkit for Tumblr themes <https://github.com/LynnCo/TumblrDevKit>
-* A Twitter tool for managing the people you follow <https://gist.github.com/LynnCo/6b13e2528508349e05d6>
-* Work on the Yocto Project's Autobuilder <http://git.yoctoproject.org/cgit/cgit.cgi/yocto-autobuilder/log/?qt=author&q=lynn>
+* [A server manager for DjangoCMS](https://github.com/LynnCo/djangocms_server)
+* [A developer toolkit for Tumblr themes](https://github.com/LynnCo/TumblrDevKit)
+* [A Twitter tool for managing the people you follow](https://gist.github.com/LynnCo/6b13e2528508349e05d6)
+* [Work on the Yocto Project's Autobuilder](http://git.yoctoproject.org/cgit/cgit.cgi/yocto-autobuilder/log/?qt=author&q=lynn)
