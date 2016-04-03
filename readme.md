@@ -67,7 +67,7 @@ Speaking and Writing
 
 *   **How Lynn Became Our Story's Protagonist** // Self Published
 
-    <http://lynncyrin.me/post/origin-story>
+    <http://lynncyrin.me/post/132586391296/origin-story>
 
     * My developer origin story, filled with drama and crisis
 
@@ -88,6 +88,12 @@ Speaking and Writing
     <http://www.alterconf.com/speakers/lynn-cyrin>
 
     * My experience spending the majority of my time within online communities
+
+*   **Social Combat Rules of Engagement** // Self Published
+
+   <http://lynncyrin.me/post/139918720011/social-combat-rules-of-engagement>
+   
+    * Describing social justice praxis that priortizes balance, growth, moderation
 
 Other Technical Work
 --------------------
