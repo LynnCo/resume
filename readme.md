@@ -11,19 +11,19 @@ My nontechnical work revolves around community, access, identity, and diversity.
 Skills
 ------
 
-**(in order of preference)**
+*(in order of preference)*
 
 *   Languages
     * Python, Ruby, PHP
     * HTML, CSS, Javascript
+*   Frameworks / CMS
+    * Rails, Flask, Django
+    * Craft CMS
 *   Databases
     * Neo4j, MongoDB, Redis
     * Postgres, MySQL
-*   Frameworks / CMS
-    * Rails
-    * Craft CMS
-    * Flask, Django
 *   Other Tools
+    * Rails, Flask, Django
     * Sass, CoffeeScript, jQuery, Bootstrap, AngularJS
     * Linux (Ubuntu), Windows, Mac
     * Git, Digital Ocean, Heroku
