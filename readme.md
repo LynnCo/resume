@@ -19,7 +19,7 @@ Skills
 *   **Databases**
     * Neo4j, MongoDB, Redis
     * Postgres, MySQL
-*   Other
+*   **Other**
     * Rails, Flask, Django
     * Sass, CoffeeScript, jQuery, Bootstrap, AngularJS
     * Linux (Ubuntu), Windows, Mac
