@@ -3,7 +3,7 @@ Lynn Cyrin
 
 **Full Stack Web Developer** // <http://lynncyrin.me>  // lynncyrin@gmail.com
 
-Professional full stack web developer with 3 years of industry experience working in multifunctional roles on self-sufficient, agile teams. Looking for contract / part time / full time work in Portland, Oregon or remote.
+Professional full stack web developer with 3 years of industry experience. Looking for contract / part time / full time work in Portland, Oregon or remote - in either programming, project management, or cultural roles.
 
 My nontechnical work revolves around community, access, identity, and diversity. The majority of this work is heavily integrated with online communities and social media. I expect any organization I work with to support organizations like Transh4ck and Women Who Code.
 
@@ -46,7 +46,7 @@ Jobs, Large Projects
 
 **Founder, Project Manager, Web Developer** // Remote, August 2014 to Present
 
- * A distributed activist worker owner collective, with a focus on representation and personal growth
+ * A decentralized activist worker owner collective, with a focus on representation and personal growth
  * Generally involves managing 5 - 10 remote web developers / writers / performers
  * The parent organization for many projects, including [ATUnit](http://gitlab.com/atunit/atunit), [TheBlockBot](http://theblockbot.herokuapp.com/), [QAPC](http://qapcollective.net)
 
